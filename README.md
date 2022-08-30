@@ -16,8 +16,8 @@ npm expo start
 
 ## Highlights
 
-Use OpenWeatherMap API
-Use Material Design 2
+- Use OpenWeatherMap API
+- Use Material Design 2
 
 ## Test
 - Jest
