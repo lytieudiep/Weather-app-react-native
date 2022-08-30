@@ -11,13 +11,14 @@ This weather app can check the weather around you and all over the world at a gl
 
 
 ## Installation
- 
-npm expo start
+- install npm
+- install expo
+-  run __npm expo start
 
 ## Highlights
 
 - Use OpenWeatherMap API
-- Use Material Design 2
+- Use Material Community
 
 ## Test
 - Jest
